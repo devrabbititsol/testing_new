@@ -8,12 +8,4 @@
 			<class name="com.fileupload.ReportUpload" />
 		</classes>
 	</test>
-	
-	<test name="mozillatest">
-  	<parameter name="browser" value="mozilla"/>
-		<classes>
-			<class name="web.testing_new.web_module.webtestclasses.TC_Notifii" />
-			<class name="com.fileupload.ReportUpload" />
-		</classes>
-	</test>
 </suite>
